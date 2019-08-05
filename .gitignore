@@ -109,3 +109,4 @@ dnn-callbacks/
 dnn-bn-callbacks/
 dnn-selu-dropout-callbacks/
 imgs/
+generate_csv/
